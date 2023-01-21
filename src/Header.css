@@ -1,0 +1,17 @@
+.Header form {
+  display: inline;
+}
+.Header .location {
+  font-size: 15px;
+  color: #fa0404;
+  margin: 0;
+  float: right;
+  top: 5;
+  position: relative;
+
+  border-radius: 10px;
+}
+.FontAwesomeIcon .location:hover {
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
