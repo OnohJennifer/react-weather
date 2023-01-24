@@ -21,11 +21,11 @@ export default function TodaysWeather() {
           <img src={pic} className="weather-icon" alt="weather-icon" />
           <span class="temperature" id="temperature"></span>
           <span class="units">
-            <a href="#" id="cels" class="cels">
+            <a href="/" id="cels" class="cels">
               °C
             </a>
             |
-            <a href="#" id="fahr" class="fahr">
+            <a href="/" id="fahr" class="fahr">
               °F
             </a>
           </span>
