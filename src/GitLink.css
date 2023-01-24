@@ -1,0 +1,12 @@
+.GitLink {
+  padding: 0px;
+  margin-left: 150px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.GitLink .git {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: medium;
+  font-style: italic;
+}

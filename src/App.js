@@ -34,8 +34,8 @@ export default function App() {
       <main className="container">
         <Header />
         <TodaysWeather />
-        <GitLink />
       </main>
+      <GitLink />
     </div>
   );
 }
